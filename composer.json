@@ -1,0 +1,6 @@
+{
+    "name": "barot/scrap",
+    "require": {
+        "fabpot/goutte": "^3.2"
+    }
+}
